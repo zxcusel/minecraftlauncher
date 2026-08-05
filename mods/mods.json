@@ -1,0 +1,12 @@
+{
+    "Mods": [
+        {
+            "Name": "3D Skin Layers",
+            "Version": "1.21.1",
+            "IconUrl": "3d-skin-layers.jpg",
+            "Description": "Добавляет слои 3D-форм к скинам Minecraft.",
+            "filename": "3d-skin-layers-1.21.1.jar",
+            "functionality": "Эстетика"
+        }
+    ]
+}
